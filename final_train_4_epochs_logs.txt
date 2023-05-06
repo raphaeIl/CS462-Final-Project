@@ -1,0 +1,103 @@
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Training Batch 0 / 1250 - Loss: 0.6997, Acc: 0.4062
+Training Batch 100 / 1250 - Loss: 0.4758, Acc: 0.8125
+Training Batch 200 / 1250 - Loss: 0.4791, Acc: 0.8438
+Training Batch 300 / 1250 - Loss: 0.4463, Acc: 0.8750
+Training Batch 400 / 1250 - Loss: 0.4097, Acc: 0.8750
+Training Batch 500 / 1250 - Loss: 0.3149, Acc: 1.0000
+Training Batch 600 / 1250 - Loss: 0.4125, Acc: 0.8750
+Training Batch 700 / 1250 - Loss: 0.4345, Acc: 0.8750
+Training Batch 800 / 1250 - Loss: 0.4316, Acc: 0.9062
+Training Batch 900 / 1250 - Loss: 0.4063, Acc: 0.9062
+Training Batch 1000 / 1250 - Loss: 0.3729, Acc: 0.9688
+Training Batch 1100 / 1250 - Loss: 0.3666, Acc: 0.9688
+Training Batch 1200 / 1250 - Loss: 0.4465, Acc: 0.8750
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Validation Batch 0 / 157 - Loss: 0.4884, Acc: 0.8125
+Validation Batch 100 / 157 - Loss: 0.4775, Acc: 0.8438
+Epoch 1 / 4 - Train Loss: 0.4172, Train Acc: 0.8919, Val Loss: 0.4351, Val Acc: 0.8786
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Training Batch 0 / 1250 - Loss: 0.5063, Acc: 0.7812
+Training Batch 100 / 1250 - Loss: 0.3732, Acc: 0.9375
+Training Batch 200 / 1250 - Loss: 0.3968, Acc: 0.9062
+Training Batch 300 / 1250 - Loss: 0.3974, Acc: 0.9062
+Training Batch 400 / 1250 - Loss: 0.3754, Acc: 0.9688
+Training Batch 500 / 1250 - Loss: 0.3425, Acc: 0.9688
+Training Batch 600 / 1250 - Loss: 0.3460, Acc: 0.9688
+Training Batch 700 / 1250 - Loss: 0.4291, Acc: 0.8750
+Training Batch 800 / 1250 - Loss: 0.3626, Acc: 0.9688
+Training Batch 900 / 1250 - Loss: 0.3769, Acc: 0.9375
+Training Batch 1000 / 1250 - Loss: 0.3944, Acc: 0.9375
+Training Batch 1100 / 1250 - Loss: 0.3547, Acc: 0.9688
+Training Batch 1200 / 1250 - Loss: 0.4827, Acc: 0.8125
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Validation Batch 0 / 157 - Loss: 0.4233, Acc: 0.9062
+Validation Batch 100 / 157 - Loss: 0.4156, Acc: 0.9062
+Epoch 2 / 4 - Train Loss: 0.3818, Train Acc: 0.9288, Val Loss: 0.3958, Val Acc: 0.9206
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Training Batch 0 / 1250 - Loss: 0.4325, Acc: 0.8750
+Training Batch 100 / 1250 - Loss: 0.3888, Acc: 0.9062
+Training Batch 200 / 1250 - Loss: 0.3773, Acc: 0.9375
+Training Batch 300 / 1250 - Loss: 0.3918, Acc: 0.9062
+Training Batch 400 / 1250 - Loss: 0.3521, Acc: 0.9688
+Training Batch 500 / 1250 - Loss: 0.3134, Acc: 1.0000
+Training Batch 600 / 1250 - Loss: 0.4006, Acc: 0.9062
+Training Batch 700 / 1250 - Loss: 0.4089, Acc: 0.9062
+Training Batch 800 / 1250 - Loss: 0.3569, Acc: 0.9688
+Training Batch 900 / 1250 - Loss: 0.3476, Acc: 0.9688
+Training Batch 1000 / 1250 - Loss: 0.4927, Acc: 0.8125
+Training Batch 1100 / 1250 - Loss: 0.3758, Acc: 0.9375
+Training Batch 1200 / 1250 - Loss: 0.4147, Acc: 0.8750
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Validation Batch 0 / 157 - Loss: 0.4139, Acc: 0.8750
+Validation Batch 100 / 157 - Loss: 0.4220, Acc: 0.8750
+Epoch 3 / 4 - Train Loss: 0.3739, Train Acc: 0.9371, Val Loss: 0.3990, Val Acc: 0.9164
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Training Batch 0 / 1250 - Loss: 0.3922, Acc: 0.9375
+Training Batch 100 / 1250 - Loss: 0.4195, Acc: 0.8750
+Training Batch 200 / 1250 - Loss: 0.3917, Acc: 0.9062
+Training Batch 300 / 1250 - Loss: 0.3931, Acc: 0.8750
+Training Batch 400 / 1250 - Loss: 0.3136, Acc: 1.0000
+Training Batch 500 / 1250 - Loss: 0.3140, Acc: 1.0000
+Training Batch 600 / 1250 - Loss: 0.3762, Acc: 0.9375
+Training Batch 700 / 1250 - Loss: 0.3320, Acc: 1.0000
+Training Batch 800 / 1250 - Loss: 0.3874, Acc: 0.9375
+Training Batch 900 / 1250 - Loss: 0.3410, Acc: 0.9688
+Training Batch 1000 / 1250 - Loss: 0.4404, Acc: 0.8750
+Training Batch 1100 / 1250 - Loss: 0.3388, Acc: 0.9688
+Training Batch 1200 / 1250 - Loss: 0.4052, Acc: 0.9062
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Validation Batch 0 / 157 - Loss: 0.4230, Acc: 0.9062
+Validation Batch 100 / 157 - Loss: 0.4070, Acc: 0.9062
+Epoch 4 / 4 - Train Loss: 0.3706, Train Acc: 0.9405, Val Loss: 0.4008, Val Acc: 0.9174
+Training Took:  3514.8034524917603 s
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Accuracy of the model on the test set: 91 %
+Final model (4 epochs): Validation Accuracy: 91.7400% validation accuracy and a test accuracy of 0.0000%!
